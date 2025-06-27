@@ -53,15 +53,5 @@ The framework supports multiple quantum embedding strategies:
 - Trade-offs between quantum advantage and computational overhead
 - Optimal embedding strategies vary by problem domain
 
-```
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- PennyLane quantum computing framework
-- Classical ML libraries: scikit-learn
-
-**Note**: This is an active research project. Results and methodologies are subject to ongoing refinement and validation.
